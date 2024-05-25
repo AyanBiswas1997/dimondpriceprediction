@@ -4,6 +4,8 @@ on:
     branches:
       - main
 
+
+
 jobs:
   build-and-push-ecr-image:
     name: Build image
@@ -15,7 +17,6 @@ jobs:
     run:
       sudo apt-get update
       sudo 
-
   - name: Configure AWS credentials
     uses: aws-actions/configure-aws-credentials@v1
     with:
