@@ -10,7 +10,7 @@ jobs:
   build-and-push-ecr-image:
     name: Build image
     runs-on: ubuntu-latest
-    steps:
+  steps:
     - name: Checkout
       uses: actions/checkout@v1
     - name: Install Utilities
