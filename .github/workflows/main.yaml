@@ -7,7 +7,7 @@ on:
 
 
 jobs:
-  build-and-push-ecr-image:
+  Build-and-push-ecr-image:
     name: Build image
     runs-on: ubuntu-latest
     steps:
