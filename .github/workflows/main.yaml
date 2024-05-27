@@ -17,7 +17,7 @@ jobs:
 
     - name: Install Utilities
       run:
-        sudo apt-get update
+        sudo apt-get update -y returned exit code 100
         sudo apt-get install -y jq unzip
 
     - name: Configure AWS credentials
