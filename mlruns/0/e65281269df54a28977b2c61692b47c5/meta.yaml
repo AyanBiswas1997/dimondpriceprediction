@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/dimondpriceprediction/mlruns/0/e65281269df54a28977b2c61692b47c5/artifacts
+end_time: 1718016169824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e65281269df54a28977b2c61692b47c5
+run_name: chill-perch-77
+run_uuid: e65281269df54a28977b2c61692b47c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718016165191
+status: 3
+tags: []
+user_id: AYAN
