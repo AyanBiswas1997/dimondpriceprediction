@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/dimondpriceprediction/mlruns/0/04dc31ec142544b1b92476d68395bec1/artifacts
+end_time: 1718101975340
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04dc31ec142544b1b92476d68395bec1
+run_name: rare-mole-671
+run_uuid: 04dc31ec142544b1b92476d68395bec1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718101971256
+status: 3
+tags: []
+user_id: AYAN
