@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/dimondpriceprediction/mlruns/0/92ad165adb584c4f9648465c982cf8af/artifacts
+end_time: 1718086266200
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92ad165adb584c4f9648465c982cf8af
+run_name: puzzled-crow-275
+run_uuid: 92ad165adb584c4f9648465c982cf8af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718086258377
+status: 3
+tags: []
+user_id: AYAN
